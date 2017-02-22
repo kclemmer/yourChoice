@@ -1,0 +1,46 @@
+body{
+  background-color: #002966;
+}
+
+.ui.top-menu{
+  background-color: black;
+  border: none;
+  box-shadow: none;
+}
+
+.ui.middle-menu {
+  background-color: #003e80;
+  border: none;
+  box-shadow: none;
+  height: 64px;
+}
+
+.ui.fluid.image.banner{
+  margin-bottom: 20px;
+  width: 1249px;
+  height: 593px;
+
+}
+
+.sub-footer-background{
+  background-color: black;
+  color: #004ba6;
+  height: 60px;
+}
+
+p.txtblue{
+  color: #004ba6;
+}
+
+p.txtwhite{
+  color: white;
+  margin-right: 10px;
+}
+
+p.txtyellow{
+  color: #fdd215;
+}
+
+.ui.right.action.left.icon.input{
+  background-color: #004ba6;
+}

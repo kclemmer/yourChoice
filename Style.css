@@ -41,8 +41,12 @@ p.txtyellow{
   color: #fdd215;
 }
 
-.ui.right.action.left.icon.input{
-  background-color: #004ba6;
+.ui.input{
+  margin-top: 30px;
+  height: 30px;
+  background-color: #01366e;
+  color: #01366e;
+  width: 150px;
 }
 
 img{

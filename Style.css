@@ -32,7 +32,7 @@ p.txtblue{
   color: #004ba6;
 }
 
-p.txtwhite{
+h1, p.txtwhite{
   color: white;
   margin-right: 10px;
 }
@@ -44,3 +44,24 @@ p.txtyellow{
 .ui.right.action.left.icon.input{
   background-color: #004ba6;
 }
+
+img{
+  margin-right: 10px;
+}
+
+h3{
+  color: #04bbe4;
+}
+
+.ui.column.one{
+  margin-right: -200px;
+}
+
+.ui.column.two{
+  margin-right: 200px;
+}
+
+.ui.column.three{
+  margin-left: -200px;
+}
+
